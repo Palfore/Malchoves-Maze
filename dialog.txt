@@ -1,0 +1,128 @@
+***0001***
+        Arrrgg... I've been running for so long...
+        Ah, my legs are killing me huhuhuhu...
+        Just keep moving, I'll be back soon.
+        This NoteBook is getting really annoyingg
+        *Your body is feeling more sensitive to pressure now*
+        Running is terrible!
+        *You take a look at the NoteBook...
+        You always liked seeing your name...
+
+***0002***
+}:Arrg, why does my head hurt so much?
+***:Maybe you should explore your surroundings:***
+>`
+
+***0003***
+}:Huh? What's that over there?
+>`
+
+***0004***
+}: It's a tree! hmmm... It looks very old,
+{and yet oddly peaceful.
+{Oh and it's got some kind of inscription on it!
+{It says "Adrea, No more shall rise." Hmmmm...
+>`
+
+***0005***
+}: Huh?
+***: Screen Shakes :***
+???: BLARAGRAGDSRSG!!!
+}: Quick I need to find a weapon!
+>`
+
+***0006***
+???: Hey!/././.
+???: Behind you!
+>`
+
+***0007***
+***: You pick up a LOG! +1 ATT, +2 STR :***
+>`
+
+***0008***
+???:Hello, }.
+}: What? How did you know my name??
+Palfore: Thats not important, my name is Palfore,
+         and that/./././ thing / /you just fought/./././
+         It wasn't of this world, and I need
+         your help to stop those things.
+         Poor Adrea/./././
+}: What?? What are you talking about?
+{Who's Adrea?
+{You're just a senile old man,
+{I don't know what that thing was
+{but do know that you, ARE CRAZY!
+{And I'm leaving!
+>`
+
+***0009***
+Palfore: HEY!
+         THIS ISN'T A JOKE!! You and EVERYONE else
+         in this world is in danger! You were the
+         last person to be near Adrea, before she
+         whithered away... Please come back...
+         The fate of the world is in your hands...
+>`
+
+***0010***
+}:Wait what?? The Tree!
+>`
+
+***0011***
+}: Fine I will listen to your story, but don't
+{talk crazy! I've had enough of that already
+{today!
+Palfore: Thank you...
+         So, let us start at the beginning...
+>`
+Palfore: It all started over 100 years ago.
+         Damadaeus, was the protecter of our land...
+         He was a great powerhouse of a man!
+         He could move boulder with the touch of fin-
+}: BOOOOOORRRRRRING! Move on!
+Palfore: /././.
+Palfore: Very well...
+         DeMalae was the main reason we needed a
+         protector. He's wicked necromancer...
+         He started off weak, decaying the
+         occasional leaf, but his power has grown
+         unbounded. Recently he managed to defeat
+         Damadaeus. I/././. I don't know how, he
+         was always so jealous of Damadaeus' power!
+>`
+***0012***
+Palfore: Regardless, Damadaeus constantly embued
+         Adrea to protect us from necromancy.
+         Without Damadeaus, Adrea will continue to
+         decay And our protection agaisnt those
+         fiends will disapear...
+         This is why we need you }...
+>`
+}: Why me? What could I do??
+{You seem a lot more able!
+Palfore: BAHE-HAEEeeee! *he whezzes a laugh*
+         I'm far too old, I need you to go
+         see the Oracle to the EAST!
+         Please... The world is in your hands...
+}: But I'm/././. I don't kn-
+Palfore: GO! Time is running out!
+}: Where should I go?
+{Oh! There's an opening in the trees!
+{I must have missed it.
+{Maybe the Oracle is there!
+>`
+***0013***
+Palfore: What are you doing?! Go find the Oracle!
+>`
+***0014***
+}: The tree looks very ill...
+>`
+***0015***
+Oracle: So, you have found me.
+        Then is it true,
+        that it is I who found you too?
+>`
+***0016***
+Oracle: Hmmm... You haven't solved my riddle yet...
+>`
