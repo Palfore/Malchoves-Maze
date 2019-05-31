@@ -6,3 +6,5 @@ Redesign.c / Redesign.exe is the second version that has less content, but makes
 
 I'm not sure what version of gcc this was originally compiled with, but it can be compiled with GCC 8.2.0.
 Additionally, these only work on windows since there are some windows specific libaries used to improve the command line interface / display.
+
+[Read more about it on my website!](http://palfore.com/projects/malchovesMaze/malchovesMaze.php)
