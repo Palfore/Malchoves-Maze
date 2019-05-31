@@ -1,2 +1,2 @@
 # Malchoves-Maze
-An RPG where you help the wizard Palfore save the world!
+This was one of the first programs I wrote, so don't judge the code too hard!
